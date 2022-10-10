@@ -8,3 +8,5 @@
 
 - :school: I’m currently studing at MS AI School
 - :fire: I’m interested in AI Engeneering
+
+![YongHee's github stats](https://github-readme-stats.vercel.app/api?username=YongHeeJang&show_icons=true)
